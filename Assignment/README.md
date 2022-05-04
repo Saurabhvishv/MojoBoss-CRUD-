@@ -1,6 +1,3 @@
-# MojoBoss-CRUD-
-Crud operations with employee data
-
 Create a NodeJS application and perform the task below
 
 Table name should be employee
